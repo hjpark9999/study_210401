@@ -4,7 +4,7 @@ void main()
 {
 	int i;
 
-	for (i = 5; i <= 50; i+=5)
+	for (i = 5; i < 50; i+=5)
 	{
 		printf("%d\n", i);
 
